@@ -12,7 +12,7 @@ public class SoundModule : MonoBehaviour
     private SoundAnalyzer soundAnalyzer;
 
     // verbose variable is for printing Debug.Log message
-    public bool verbose = false;
+    public bool verbose = true;
 
     // ***** RECORDING PART ***** //
     // using Unity's Audio components and Microphone
